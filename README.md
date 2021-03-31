@@ -1,3 +1,6 @@
+# General info
+This project is based on the course [*React.js Essential Traning*](https://www.linkedin.com/learning/react-js-essential-training) from LinkedIn Learning.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
